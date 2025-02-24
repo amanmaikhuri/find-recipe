@@ -293,7 +293,7 @@
                     },
                     {
                         "name": "Veggie Stir-Fry",
-                        "image": "images/veggie-stir-fry.jpeg",
+                        "image": "images/Veggie-stir-fry.jpeg",
                         "category": "lunch",
                         "ingredients": ["1 cup broccoli", "1 carrot", "1 bell pepper", "1/2 onion", "2 tbsp soy sauce", "1 tbsp sesame oil"],
                         "instructions": "1. Heat oil in a pan and stir-fry onions. 2. Add broccoli, carrots, and bell pepper. 3. Cook for 5 minutes, then add soy sauce. 4. Stir well and serve with rice or noodles."
