@@ -1,0 +1,398 @@
+[{
+    "name": "Banana Pancakes",
+    "image": "images/banana-pancake.jpeg",
+    "category": "breakfast",
+    "ingredients": [
+        "1 ripe banana",
+        "1 cup flour",
+        "1 tbsp sugar",
+        "1 tsp baking powder",
+        "1/2 tsp cinnamon",
+        "1 egg",
+        "3/4 cup milk",
+        "1/2 tsp vanilla extract",
+        "1 tbsp butter (for cooking)"
+    ],
+    "instructions": "1. Mash the banana in a bowl. 2. Add flour, sugar, baking powder, and cinnamon, then mix well. 3. In another bowl, whisk the egg, milk, and vanilla extract. 4. Combine the wet and dry ingredients, mixing until smooth. 5. Heat butter in a pan, pour small amounts of batter to form pancakes. 6. Cook until bubbles form on top, then flip and cook the other side. 7. Serve warm with honey, maple syrup, or sliced bananas."
+},
+    {
+            "name": "Classic Pancakes",
+            "image": "images/classic-pancakes.jpeg",
+            "category": "breakfast",
+            "ingredients": ["2 cups flour", "2 tbsp sugar", "1 tbsp baking powder", "1/2 tsp salt", "2 eggs", "1 3/4 cups milk", "1/4 cup melted butter"],
+            "instructions": "1. In a bowl, mix flour, sugar, baking powder, and salt. 2. In another bowl, whisk eggs, milk, and melted butter. 3. Combine wet and dry ingredients. 4. Heat a pan and pour batter to form pancakes. 5. Cook until bubbles form, then flip. 6. Serve with syrup."
+        },
+        {
+            "name": "Masala Dosa",
+            "image": "images/masala-dosa.jpg",
+            "category": "breakfast",
+            "ingredients": [
+                "1 cup rice",
+                "1/4 cup urad dal (black gram)",
+                "1/2 tsp salt",
+                "2 boiled potatoes",
+                "1 onion",
+                "1 green chili",
+                "1/2 tsp mustard seeds",
+                "1/2 tsp turmeric",
+                "1 tbsp oil",
+                "Curry leaves"
+            ],
+            "instructions": "1. Soak rice and urad dal overnight, then grind into a smooth batter. 2. Let it ferment for 8 hours, then add salt. 3. Heat oil in a pan, add mustard seeds, curry leaves, chopped onions, and green chili. 4. Add mashed potatoes, turmeric, and salt, then cook for 5 minutes. 5. Heat a pan, spread dosa batter thinly, cook until crispy. 6. Add the potato filling and fold the dosa. 7. Serve with coconut chutney and sambar."
+        },
+        {
+            "name": "Chole Bhature",
+            "image": "images/chole-bhature.jpg",
+            "category": "lunch",
+            "ingredients": [
+                "1 cup chickpeas",
+                "1 onion",
+                "2 tomatoes",
+                "1 tsp ginger-garlic paste",
+                "1/2 tsp turmeric",
+                "1 tsp garam masala",
+                "1/2 tsp red chili powder",
+                "1/2 tsp salt",
+                "1 tbsp oil",
+                "2 cups all-purpose flour",
+                "1/2 cup yogurt",
+                "1/2 tsp baking soda",
+                "Oil for deep frying"
+            ],
+            "instructions": "1. Soak chickpeas overnight and boil them until soft. 2. Heat oil in a pan, sauté chopped onions and ginger-garlic paste. 3. Add tomatoes, turmeric, chili powder, salt, and cook until soft. 4. Add chickpeas and garam masala, cook for 10 minutes. 5. For bhature, mix flour, yogurt, and baking soda into a dough. 6. Roll into small discs and deep fry until golden. 7. Serve hot with chole."
+        },
+        {
+            "name": "Paneer Butter Masala",
+            "image": "images/paneer-butter-masala.jpg",
+            "category": "dinner",
+            "ingredients": ["200g paneer (cottage cheese)", "2 tomatoes", "1 onion", "1/2 cup cream", "1 tbsp butter", "1 tsp ginger-garlic paste", "1/2 tsp turmeric", "1 tsp garam masala", "1/2 tsp red chili powder", "1/2 tsp salt"],
+            "instructions": "1. Heat butter in a pan and sauté chopped onions until golden brown. 2. Add ginger-garlic paste, chopped tomatoes, turmeric, chili powder, and salt. 3. Cook until tomatoes turn soft, then blend into a smooth paste. 4. Pour the mixture back into the pan and add cream. 5. Add paneer cubes and garam masala, then simmer for 5 minutes. 6. Serve hot with naan or rice."
+        },
+        {
+            "name": "Avocado Toast",
+            "image": "images/avocado-toast.jpeg",
+            "category": "breakfast",
+            "ingredients": ["2 slices bread", "1 avocado", "1/2 tsp salt", "1/4 tsp black pepper", "1/2 tsp lemon juice"],
+            "instructions": "1. Toast bread slices. 2. Mash avocado with salt, pepper, and lemon juice. 3. Spread avocado mixture on toast. 4. Serve with optional toppings like eggs or tomatoes."
+        },
+        {
+            "name": "Spaghetti Carbonara",
+            "image": "images/spaghetti-carbonara.jpeg",
+            "category": "lunch",
+            "ingredients": ["200g spaghetti", "100g pancetta", "2 eggs", "50g parmesan cheese", "1 tsp black pepper"],
+            "instructions": "1. Cook spaghetti in salted water. 2. In a pan, cook pancetta until crispy. 3. In a bowl, whisk eggs, parmesan, and pepper. 4. Drain spaghetti and mix with pancetta. 5. Remove from heat and mix with egg mixture. 6. Serve hot."
+        },
+        {
+            "name": "Grilled Cheese Sandwich",
+            "image": "images/grilled-cheese-sandwich.jpeg",
+            "category": "lunch",
+            "ingredients": ["2 slices bread", "2 slices cheddar cheese", "1 tbsp butter"],
+            "instructions": "1. Butter one side of each bread slice. 2. Place cheese between slices, buttered side out. 3. Heat a pan and grill the sandwich until golden brown. 4. Flip and cook the other side. 5. Serve warm."
+        },
+        {
+            "name": "Chicken Curry",
+            "image": "images/chicken-curry.jpeg",
+            "category": "dinner",
+            "ingredients": ["500g chicken", "1 onion", "2 tomatoes", "1 tbsp garlic paste", "1 tbsp ginger paste", "1 tsp turmeric", "1 tsp garam masala", "1 tsp salt"],
+            "instructions": "1. Heat oil in a pan, sauté onions until golden. 2. Add garlic and ginger paste. 3. Add tomatoes and cook until soft. 4. Add spices and mix well. 5. Add chicken and cook for 15 minutes. 6. Add water and simmer until chicken is cooked. 7. Serve with rice."
+        },
+        {
+            "name": "Beef Stir Fry",
+            "image": "images/beef-stir-fry.jpeg",
+            "category": "dinner",
+            "ingredients": ["500g beef strips", "1 bell pepper", "1 onion", "2 tbsp soy sauce", "1 tbsp oyster sauce", "1 tsp garlic", "1 tbsp oil"],
+            "instructions": "1. Heat oil in a pan. 2. Add garlic and sauté. 3. Add beef and cook for 5 minutes. 4. Add vegetables and sauces. 5. Stir-fry for another 5 minutes. 6. Serve hot with rice or noodles."
+        },
+        {
+            "name": "Chocolate Chip Cookies",
+            "image": "images/chocolate-chip-cookies.jpeg",
+            "category": "dessert",
+            "ingredients": ["2 cups flour", "1 cup sugar", "1 cup butter", "1 egg", "1 tsp vanilla extract", "1/2 tsp baking soda", "1 cup chocolate chips"],
+            "instructions": "1. Preheat oven to 180°C. 2. Mix butter and sugar. 3. Add egg and vanilla extract. 4. Mix flour, baking soda, and chocolate chips. 5. Form dough balls and place on baking sheet. 6. Bake for 10-12 minutes. 7. Let cool before serving."
+        },
+        {
+            "name": "Banana Smoothie",
+            "image": "images/banana-smoothie.jpeg",
+            "category": "snack",
+            "ingredients": ["2 bananas", "1 cup milk", "1 tbsp honey", "1/2 cup yogurt", "5 ice cubes"],
+            "instructions": "1. Add all ingredients to a blender. 2. Blend until smooth. 3. Pour into a glass and serve chilled."
+        },
+        {
+            "name": "Caesar Salad",
+            "image": "images/caesar-salad.jpeg",
+            "category": "snack",
+            "ingredients": ["1 head romaine lettuce", "1/2 cup croutons", "1/4 cup parmesan", "1/4 cup Caesar dressing"],
+            "instructions": "1. Chop lettuce. 2. Mix with croutons, parmesan, and dressing. 3. Toss well and serve fresh."
+        },
+        {
+            "name": "Mango Ice Cream",
+            "image": "images/mango-icecream.jpeg",
+            "category": "dessert",
+            "ingredients": ["2 mangoes", "1 cup heavy cream", "1/2 cup sugar"],
+            "instructions": "1. Blend mangoes with sugar until smooth. 2. Whip cream until soft peaks form. 3. Mix mango puree with whipped cream. 4. Freeze for 4 hours. 5. Serve cold."
+        },{
+                "name": "French Toast",
+                "image": "images/french-toast.jpeg",
+                "category": "breakfast",
+                "ingredients": ["2 eggs", "1/2 cup milk", "1 tsp cinnamon", "4 slices bread", "1 tbsp butter", "1 tbsp maple syrup"],
+                "instructions": "1. In a bowl, whisk eggs, milk, and cinnamon. 2. Dip bread slices into the mixture, coating both sides. 3. Heat butter in a pan and cook bread until golden brown on both sides. 4. Serve warm with maple syrup."
+            },
+            {
+                "name": "Oatmeal with Fruits",
+                "image": "images/oatmeal-with-fruits.jpeg",
+                "category": "breakfast",
+                "ingredients": ["1 cup oats", "2 cups milk", "1 tbsp honey", "1/2 banana", "1/4 cup berries", "1 tbsp nuts"],
+                "instructions": "1. Boil milk and add oats. 2. Cook for 5 minutes, stirring occasionally. 3. Pour into a bowl, add honey, banana, and berries. 4. Sprinkle nuts on top and serve."
+            },
+            {
+                "name": "Vegetable Soup",
+                "image": "images/vegetable-soup.jpeg",
+                "category": "lunch",
+                "ingredients": ["2 cups vegetable broth", "1 carrot", "1 potato", "1 onion", "1 cup spinach", "1 tsp salt", "1/2 tsp black pepper"],
+                "instructions": "1. Chop vegetables. 2. In a pot, heat broth and add vegetables. 3. Simmer for 20 minutes. 4. Season with salt and pepper. 5. Serve hot."
+            },
+            {
+                "name": "BBQ Chicken Sandwich",
+                "image": "images/bbq-chicken-sandwich.jpeg",
+                "category": "lunch",
+                "ingredients": ["2 chicken breasts", "1/2 cup BBQ sauce", "2 burger buns", "1/4 cup coleslaw"],
+                "instructions": "1. Cook chicken in a pan until fully cooked. 2. Shred chicken and mix with BBQ sauce. 3. Toast buns and add chicken mixture. 4. Top with coleslaw and serve."
+            },
+            {
+                "name": "Biryani",
+                "image": "images/biryani.jpeg",
+                "category": "dinner",
+                "ingredients": ["2 cups basmati rice", "500g chicken", "1 onion", "1 tomato", "1 tsp ginger-garlic paste", "1/2 cup yogurt", "1 tsp biryani masala"],
+                "instructions": "1. Cook rice separately. 2. In a pan, sauté onion and ginger-garlic paste. 3. Add chicken, tomatoes, yogurt, and spices. 4. Layer rice over the chicken mixture. 5. Cover and cook for 10 minutes. 6. Serve hot."
+            },
+            {
+                "name": "Salmon with Lemon Butter",
+                "image": "images/salmon-with-lemon-butter.jpeg",
+                "category": "dinner",
+                "ingredients": ["2 salmon fillets", "1 lemon", "2 tbsp butter", "1 tsp garlic", "1/2 tsp salt"],
+                "instructions": "1. Preheat oven to 180°C. 2. Melt butter and mix with garlic and lemon juice. 3. Brush salmon with the mixture. 4. Bake for 12-15 minutes. 5. Serve hot."
+            },
+            {
+                "name": "Brownies",
+                "image": "images/brownies.jpeg",
+                "category": "dessert",
+                "ingredients": ["1 cup flour", "1/2 cup cocoa powder", "1 cup sugar", "1/2 cup butter", "2 eggs", "1 tsp vanilla extract"],
+                "instructions": "1. Preheat oven to 180°C. 2. Melt butter and mix with sugar. 3. Add eggs and vanilla. 4. Mix in flour and cocoa powder. 5. Pour into a baking dish and bake for 20 minutes. 6. Let cool before serving."
+            },
+            {
+                "name": "Fruit Salad",
+                "image": "images/fruit-salad.jpeg",
+                "category": "snack",
+                "ingredients": ["1 apple", "1 banana", "1 orange", "1/4 cup grapes", "1 tbsp honey", "1 tbsp lemon juice"],
+                "instructions": "1. Chop all fruits into bite-sized pieces. 2. Drizzle with honey and lemon juice. 3. Mix well and serve chilled."
+            },
+            {
+                "name": "Garlic Bread",
+                "image": "images/garlic-bread.jpeg",
+                "category": "snack",
+                "ingredients": ["1 baguette", "2 tbsp butter", "1 tsp garlic", "1 tbsp parsley"],
+                "instructions": "1. Preheat oven to 180°C. 2. Mix butter, garlic, and parsley. 3. Spread on bread slices. 4. Bake for 10 minutes. 5. Serve warm."
+            },
+            {
+                "name": "Strawberry Cheesecake",
+                "image": "images/strawberry-cheesecake.jpeg",
+                "category": "dessert",
+                "ingredients": ["200g cream cheese", "1/2 cup sugar", "1 cup crushed biscuits", "1/4 cup melted butter", "1/2 cup strawberries"],
+                "instructions": "1. Mix crushed biscuits with melted butter. 2. Press into a cake pan to form the crust. 3. Mix cream cheese and sugar. 4. Spread over crust. 5. Top with sliced strawberries. 6. Chill for 2 hours before serving."
+            },
+                {
+                    "name": "Scrambled Eggs",
+                    "image": "images/scrambled-eggs.jpeg",
+                    "category": "breakfast",
+                    "ingredients": ["2 eggs", "1 tbsp butter", "1/4 tsp salt", "1/4 tsp black pepper", "1 tbsp milk"],
+                    "instructions": "1. Whisk eggs, milk, salt, and pepper in a bowl. 2. Melt butter in a pan over low heat. 3. Pour egg mixture into the pan. 4. Stir gently until eggs are cooked but still soft. 5. Serve warm."
+                },
+                {
+                    "name": "Mushroom Omelette",
+                    "image": "images/mushroom-omlette.jpeg",
+                    "category": "breakfast",
+                    "ingredients": ["2 eggs", "1/4 cup mushrooms", "1 tbsp butter", "1/4 cup cheese", "1/4 tsp salt"],
+                    "instructions": "1. Heat butter in a pan and sauté mushrooms. 2. In a bowl, whisk eggs and salt. 3. Pour eggs over mushrooms and cook until set. 4. Sprinkle cheese on top. 5. Fold omelette and serve."
+                },
+                {
+                    "name": "Vegetable Wrap",
+                    "image": "images/vegtable-wrap-3.jpeg",
+                    "category": "lunch",
+                    "ingredients": ["1 tortilla", "1/2 cup lettuce", "1/4 cup carrots", "1/4 cup cucumbers", "2 tbsp hummus"],
+                    "instructions": "1. Spread hummus on tortilla. 2. Add lettuce, carrots, and cucumbers. 3. Roll tightly and slice in half. 4. Serve fresh."
+                },
+                {
+                    "name": "Chicken Caesar Wrap",
+                    "image": "images/chicken-ceasar-wrap.jpeg",
+                    "category": "lunch",
+                    "ingredients": ["1 tortilla", "1/2 cup grilled chicken", "1/4 cup romaine lettuce", "2 tbsp Caesar dressing", "1/4 cup parmesan cheese"],
+                    "instructions": "1. Place grilled chicken, lettuce, cheese, and dressing on a tortilla. 2. Roll tightly and slice in half. 3. Serve fresh or grilled."
+                },
+                {
+                    "name": "Butter Chicken",
+                    "image": "images/butter-chicken.jpeg",
+                    "category": "dinner",
+                    "ingredients": ["500g chicken", "1 onion", "2 tomatoes", "1/2 cup cream", "1 tsp butter", "1 tsp garam masala", "1 tsp salt"],
+                    "instructions": "1. Sauté onions in butter. 2. Add tomatoes and blend into a sauce. 3. Cook chicken with spices in the sauce. 4. Stir in cream and simmer for 5 minutes. 5. Serve with rice or naan."
+                },
+                {
+                    "name": "Stuffed Bell Peppers",
+                    "image": "images/stuffed-bell-peppers.jpeg",
+                    "category": "dinner",
+                    "ingredients": ["4 bell peppers", "1 cup cooked rice", "1/2 cup ground beef", "1/2 onion", "1 tsp salt", "1/2 tsp black pepper"],
+                    "instructions": "1. Cut tops off bell peppers and remove seeds. 2. Cook beef and onions until browned. 3. Mix beef with rice, salt, and pepper. 4. Stuff peppers with the mixture. 5. Bake at 180°C for 25 minutes."
+                },
+                {
+                    "name": "Lemon Tart",
+                    "image": "images/lemon-tart.jpeg",
+                    "category": "dessert",
+                    "ingredients": ["1 cup flour", "1/2 cup butter", "1/4 cup sugar", "2 eggs", "1/2 cup lemon juice"],
+                    "instructions": "1. Mix flour, butter, and sugar to form crust. 2. Bake crust at 180°C for 10 minutes. 3. Mix eggs and lemon juice. 4. Pour into crust and bake for another 15 minutes. 5. Let cool before serving."
+                },
+                {
+                    "name": "Granola Bars",
+                    "image": "images/granola-bars.jpeg",
+                    "category": "snack",
+                    "ingredients": ["1 cup oats", "1/2 cup honey", "1/2 cup peanut butter", "1/4 cup nuts", "1/4 cup raisins"],
+                    "instructions": "1. Mix oats, honey, and peanut butter. 2. Stir in nuts and raisins. 3. Press mixture into a pan and refrigerate for 2 hours. 4. Cut into bars and serve."
+                },
+                {
+                    "name": "Deviled Eggs",
+                    "image": "images/deviled-eggs.jpeg",
+                    "category": "snack",
+                    "ingredients": ["4 eggs", "2 tbsp mayonnaise", "1/2 tsp mustard", "1/4 tsp paprika"],
+                    "instructions": "1. Boil eggs and cut in half. 2. Remove yolks and mix with mayo and mustard. 3. Fill egg whites with yolk mixture. 4. Sprinkle paprika on top and serve."
+                },
+                {
+                    "name": "Tiramisu",
+                    "image": "images/tiramisu.jpeg",
+                    "category": "dessert",
+                    "ingredients": ["1 cup mascarpone", "1/2 cup sugar", "1 cup coffee", "12 ladyfingers", "1/2 cup cocoa powder"],
+                    "instructions": "1. Mix mascarpone and sugar. 2. Dip ladyfingers in coffee and layer in a dish. 3. Spread mascarpone mixture over. 4. Repeat layers and dust with cocoa powder. 5. Chill for 4 hours before serving."
+                },
+                    {
+                        "name": "Blueberry Muffins",
+                        "image": "images/blueberry-muffins.jpeg",
+                        "category": "breakfast",
+                        "ingredients": ["2 cups flour", "1/2 cup sugar", "1/2 cup butter", "1/2 cup milk", "1 egg", "1 tsp baking powder", "1 cup blueberries"],
+                        "instructions": "1. Preheat oven to 180°C. 2. Mix flour, sugar, and baking powder. 3. Add melted butter, milk, and egg, stirring well. 4. Fold in blueberries. 5. Pour into muffin cups and bake for 20 minutes."
+                    },
+                    {
+                        "name": "Spinach & Cheese Omelette",
+                        "image": "images/spinach-cheese-omelette.jpeg",
+                        "category": "breakfast",
+                        "ingredients": ["2 eggs", "1/4 cup spinach", "1/4 cup cheese", "1 tbsp butter", "1/4 tsp salt"],
+                        "instructions": "1. Heat butter in a pan and sauté spinach. 2. Whisk eggs and salt, then pour into the pan. 3. Add cheese on top and cook until set. 4. Fold and serve warm."
+                    },
+                    {
+                        "name": "Tomato Basil Soup",
+                        "image": "images/tomato-basil-soup.jpeg",
+                        "category": "lunch",
+                        "ingredients": ["4 tomatoes", "1 onion", "2 cloves garlic", "2 cups vegetable broth", "1/4 cup fresh basil", "1 tsp salt"],
+                        "instructions": "1. Sauté onions and garlic. 2. Add chopped tomatoes and cook for 10 minutes. 3. Pour in vegetable broth and simmer for 15 minutes. 4. Blend until smooth, add basil, and serve hot."
+                    },
+                    {
+                        "name": "Veggie Stir-Fry",
+                        "image": "images/veggie-stir-fry.jpeg",
+                        "category": "lunch",
+                        "ingredients": ["1 cup broccoli", "1 carrot", "1 bell pepper", "1/2 onion", "2 tbsp soy sauce", "1 tbsp sesame oil"],
+                        "instructions": "1. Heat oil in a pan and stir-fry onions. 2. Add broccoli, carrots, and bell pepper. 3. Cook for 5 minutes, then add soy sauce. 4. Stir well and serve with rice or noodles."
+                    },
+                    {
+                        "name": "Grilled Steak",
+                        "image": "images/grilled-steak.jpeg",
+                        "category": "dinner",
+                        "ingredients": ["1 steak", "1 tbsp olive oil", "1 tsp salt", "1/2 tsp black pepper", "1 tsp garlic powder"],
+                        "instructions": "1. Rub steak with oil and seasonings. 2. Heat a grill pan and cook steak for 4 minutes per side. 3. Let rest for 5 minutes before slicing."
+                    },
+                    {
+                        "name": "Shrimp Pasta",
+                        "image": "images/shrimp-pasta.jpeg",
+                        "category": "dinner",
+                        "ingredients": ["200g pasta", "1/2 cup shrimp", "1/2 cup cream", "1 tbsp butter", "2 cloves garlic", "1/2 tsp salt"],
+                        "instructions": "1. Cook pasta in boiling water. 2. In a pan, sauté garlic in butter. 3. Add shrimp and cook until pink. 4. Pour in cream and simmer for 2 minutes. 5. Mix with pasta and serve."
+                    },
+                    {
+                        "name": "Chocolate Pudding",
+                        "image": "images/chocolate-pudding.jpeg",
+                        "category": "dessert",
+                        "ingredients": ["2 cups milk", "1/2 cup sugar", "1/4 cup cocoa powder", "2 tbsp cornstarch", "1/2 tsp vanilla"],
+                        "instructions": "1. In a pot, mix milk, sugar, cocoa, and cornstarch. 2. Heat and stir until thickened. 3. Remove from heat, add vanilla, and cool. 4. Serve chilled."
+                    },
+                    {
+                        "name": "Popcorn",
+                        "image": "images/popcorns.jpeg",
+                        "category": "snack",
+                        "ingredients": ["1/2 cup popcorn kernels", "2 tbsp butter", "1/2 tsp salt"],
+                        "instructions": "1. Heat butter in a pot. 2. Add kernels and cover. 3. Shake occasionally until popping stops. 4. Sprinkle salt and serve."
+                    },
+                    {
+                        "name": "Guacamole",
+                        "image": "images/guacamole.jpeg",
+                        "category": "snack",
+                        "ingredients": ["2 avocados", "1 tomato", "1/2 onion", "1 tbsp lime juice", "1/2 tsp salt"],
+                        "instructions": "1. Mash avocados in a bowl. 2. Add chopped tomato and onion. 3. Mix in lime juice and salt. 4. Serve with chips."
+                    },
+                    {
+                        "name": "Apple Pie",
+                        "image": "images/apple-pie.jpeg",
+                        "category": "dessert",
+                        "ingredients": ["2 apples", "1 cup flour", "1/2 cup butter", "1/4 cup sugar", "1/2 tsp cinnamon"],
+                        "instructions": "1. Slice apples and mix with sugar and cinnamon. 2. Make dough with flour and butter. 3. Roll out and place in a pie dish. 4. Fill with apples and cover with dough. 5. Bake at 180°C for 30 minutes."
+                    } ,{
+                            "name": "Pancakes",
+                            "image": "images/pancakes.jpg",
+                            "category": "breakfast",
+                            "ingredients": ["1 cup flour", "1 tbsp sugar", "1 tsp baking powder", "1 egg", "1 cup milk", "1 tbsp butter"],
+                            "instructions": "1. Mix flour, sugar, and baking powder. 2. Add egg, milk, and melted butter, whisking until smooth. 3. Heat a pan and pour batter to form pancakes. 4. Cook until bubbles form, then flip. 5. Serve with syrup."
+                        },
+                        {
+                            "name": "Greek Salad",
+                            "image": "images/greek-salad.jpg",
+                            "category": "lunch",
+                            "ingredients": ["1 cucumber", "1 tomato", "1/2 onion", "1/4 cup feta cheese", "1/4 cup olives", "1 tbsp olive oil"],
+                            "instructions": "1. Chop cucumber, tomato, and onion. 2. Add feta cheese and olives. 3. Drizzle with olive oil and mix well. 4. Serve chilled."
+                        },
+                        {
+                            "name": "Tuna Sandwich",
+                            "image": "images/tuna-sandwich.jpg",
+                            "category": "lunch",
+                            "ingredients": ["2 slices bread", "1/2 cup tuna", "1 tbsp mayonnaise", "1/4 tsp black pepper", "1 lettuce leaf"],
+                            "instructions": "1. Mix tuna with mayonnaise and black pepper. 2. Spread on bread slices. 3. Add lettuce and close sandwich. 4. Serve fresh."
+                        },
+                        {
+                            "name": "Chicken Curry",
+                            "image": "images/chicken-curry.jpg",
+                            "category": "dinner",
+                            "ingredients": ["500g chicken", "1 onion", "2 tomatoes", "1 tsp ginger-garlic paste", "1 tsp curry powder", "1/2 cup coconut milk"],
+                            "instructions": "1. Sauté onions and ginger-garlic paste. 2. Add chopped tomatoes and cook until soft. 3. Add chicken and curry powder, stirring well. 4. Pour in coconut milk and simmer for 20 minutes. 5. Serve with rice."
+                        },
+                        {
+                            "name": "Beef Tacos",
+                            "image": "images/beef-tacos.jpg",
+                            "category": "dinner",
+                            "ingredients": ["200g ground beef", "1/2 tsp salt", "1/2 tsp black pepper", "1/2 tsp chili powder", "4 taco shells", "1/2 cup lettuce", "1/4 cup cheese"],
+                            "instructions": "1. Cook beef with salt, pepper, and chili powder. 2. Fill taco shells with beef mixture. 3. Top with lettuce and cheese. 4. Serve warm."
+                        },
+                        {
+                            "name": "Nachos with Cheese",
+                            "image": "images/nachos-cheese.jpg",
+                            "category": "snack",
+                            "ingredients": ["1 cup tortilla chips", "1/2 cup cheese", "1/4 cup salsa", "1/4 cup jalapeños"],
+                            "instructions": "1. Arrange tortilla chips on a plate. 2. Sprinkle cheese on top. 3. Microwave for 30 seconds or until cheese melts. 4. Add salsa and jalapeños before serving."
+                        },
+                        {
+                            "name": "Hummus",
+                            "image": "images/hummus.jpg",
+                            "category": "snack",
+                            "ingredients": ["1 cup chickpeas", "2 tbsp tahini", "1 tbsp olive oil", "1 tbsp lemon juice", "1/2 tsp salt"],
+                            "instructions": "1. Blend chickpeas, tahini, olive oil, lemon juice, and salt until smooth. 2. Serve with pita bread or veggies."
+                        },
+                        {
+                            "name": "Mango Smoothie",
+                            "image": "images/mango-smoothie.jpg",
+                            "category": "dessert",
+                            "ingredients": ["1 mango", "1 cup yogurt", "1/2 cup milk", "1 tbsp honey"],
+                            "instructions": "1. Peel and chop mango. 2. Blend mango with yogurt, milk, and honey until smooth. 3. Serve chilled."
+                        }                                             
+]
